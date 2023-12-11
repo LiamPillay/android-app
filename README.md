@@ -1,4 +1,4 @@
-Android applicatiom written in Java. A church app for a church based in Lonehill, South Africa. 
+Android application written in Java. A church app for a church based in Lonehill, South Africa. 
 Main features: 
 - Log in / Register
 - View contact details
